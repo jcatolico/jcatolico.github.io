@@ -10,17 +10,17 @@ body {
 }
 
 header{
-  background: linear-gradient(to top left, rgba(241,253,253,0), rgba(202,239,239,1));
+  background: linear-gradient(to top left, rgba(241,253,253,0.5), rgba(202,239,239,1));
   padding: 1em; 
   border-radius: .5em;
 }
 section{
-  background: linear-gradient(to top left, rgba(241,253,253,0),rgba(241,253,253,.5),rgba(202,239,239,1));
+  background: linear-gradient(to top left,rgba(241,253,253,.5),rgba(202,239,239,1));
   padding: 1em; 
   border-radius: .5em;
 }
 footer{
-  background: linear-gradient(to top left, rgba(241,253,253,0),rgba(241,253,253,0), rgba(202,239,239,1));
+  background: linear-gradient(to top left,rgba(241,253,253,0.5), rgba(202,239,239,1));
   padding: 1em; 
   border-radius: .5em;
 }
