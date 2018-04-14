@@ -1,3 +1,13 @@
 title: Jason Catolico
 description: Hello
+text: This is a test.
+text: This is a test.
+url: /hello.htm
+docs:
+-title: Test menu
+children:
+-title: Test one
+url: /testone.htm
+-title: Test two
+url: /testtwo.htm
 theme: jekyll-theme-minimal
